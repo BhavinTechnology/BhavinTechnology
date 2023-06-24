@@ -1,4 +1,4 @@
-**Title: Bhavin Technology: Software Documentation**
+**Title: Bhavin Technology:
 
 **Table of Contents:**
 1. Introduction
