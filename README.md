@@ -11,6 +11,8 @@
 8. [Frequently Asked Questions (FAQ)](#8-frequently-asked-questions-faq)
 9. [Conclusion](#9-conclusion)
 10. [References](#10-references)
+11. [Download Information Letter about Bhavin Technology](https://github.com/BhavinTechnology/BhavinTechnology/blob/5a6cdb5e1cb47f88fbe572f8a84836f2af41fdea/information%20letter%20about%20Bhavin%20Technolo....pdf)
+
 
 
 ---
