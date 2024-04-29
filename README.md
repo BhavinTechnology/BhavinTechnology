@@ -11,7 +11,7 @@
 8. [Frequently Asked Questions (FAQ)](#8-frequently-asked-questions-faq)
 9. [Conclusion](#9-conclusion)
 10. [References](#10-references)
-11. information letter about Bhavin Technolo....pdf
+11. [Letter](#11-information letter about Bhavin Technolo....pdf)
 
 ---
 
